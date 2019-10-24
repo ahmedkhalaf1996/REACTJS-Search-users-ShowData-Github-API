@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/bg-main.jpg") center center repeat-x repeat-y;
+    background-size: cover;
+    /* margin: 20% !important;
+    padding: 1% !important; */
+}
+
+.base img {
+    width: 200px;
+}
+
+.base h1,h2 {
+    color: lightgoldenrodyellow;
+}
+
+h1 
+{
+    color: lightgoldenrodyellow;
+}

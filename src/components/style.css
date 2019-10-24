@@ -1,0 +1,75 @@
+
+.Main {
+    /* background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/bg-main.jpg") center center repeat-x;
+    background-size: cover;
+    padding: 100px 0;
+    text-align: center;
+    height: 100vh;
+    border-bottom: solid 10px #eeb83b;  */
+    padding: 0px 50px;
+
+}
+
+body{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/bg-main.jpg") center center repeat-x;
+    background-size: cover;
+    padding: 10px 10px;
+    text-align: center;
+    /* height: 100%; */
+    /* border-bottom: solid 10px #eeb83b;  */
+    /* overflow: auto; */
+    text-align: center;
+    margin: 5vw;
+    margin: 5vh;
+    margin-bottom:50px !important ;
+}
+
+.userSec h5 {
+ font-style: initial;
+ font-weight: bold;
+ text-align: center;
+}
+
+.next {
+    width: 15%;
+    margin: 2% 2% auto;
+    float: left;
+    text-align: center;
+    background: snow;
+    padding: 1% !important;
+    height: 200px;
+}
+
+.next img {
+    width: 60%;
+}
+
+.end{
+    margin: 40px;
+    display: block;
+    padding: 10px;
+}
+.end i{
+    color: snow;
+    margin: 20px 20px auto;
+}
+
+.clear {
+    width: 100%;
+    clear: both;
+    display: block;
+    height: 1px;
+}
+
+
+.an {
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
